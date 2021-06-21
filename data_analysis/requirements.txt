@@ -1,0 +1,8 @@
+contextily>=1.1.0
+geopandas>=0.9.0
+matplotlib>=3.3.4
+networkx>=2.5.1
+numpy>=1.19.5
+pandas>=1.1.5
+osmnx>=1.1.1
+Shapely>=1.7.1
